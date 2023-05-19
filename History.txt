@@ -1,0 +1,7 @@
+Deposit : $100.0 in Account Number 456
+Withdraw : $1999.0 from Account Number 2345
+Deposit : $10000.0 in Account Number 234
+Withdraw : $20000.0 from Account Number 234
+Deposit : $7500.0 in Account Number 123
+Deposit : $45000.0 in Account Number 345
+Transfer: $34000.0 from Account Number 890 to Account Number 321
